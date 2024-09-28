@@ -4,6 +4,4 @@ while slay:
     print("whats up shawty")
     slay = False
     slay = "False"
-    print()
-
-
+    print("adi was here")
